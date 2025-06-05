@@ -1,0 +1,2 @@
+# Drumster
+AI drum teacher
